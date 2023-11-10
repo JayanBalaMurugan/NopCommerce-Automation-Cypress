@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1699537336029' stop='1699537454605'>
+    <name> NopCommerce Automation Tesing</name>
+    <title> NopCommerce Automation Tesing</title>
+    <test-cases>
+        <test-case start='1699537336077' status='passed' stop='1699537348030'>
+            <name>TestCase : 1 : Verify the ability to login - Valid Credentials.</name>
+            <title>TestCase : 1 : Verify the ability to login - Valid Credentials.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537348076' status='passed' stop='1699537351181'>
+            <name>TestCase : 2 : Verify the ability to login - Inalid Credentials.</name>
+            <title>TestCase : 2 : Verify the ability to login - Inalid Credentials.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537351228' status='passed' stop='1699537353679'>
+            <name>TestCase : 3 :Verify the ability to login - Empty field.</name>
+            <title>TestCase : 3 :Verify the ability to login - Empty field.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537353715' status='passed' stop='1699537361616'>
+            <name>TestCase : 4 : Verify the ability to use the Admin search box.</name>
+            <title>TestCase : 4 : Verify the ability to use the Admin search box.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537361635' status='passed' stop='1699537376524'>
+            <name>TestCase : 5 : Verify that the product childtab is working properly.</name>
+            <title>TestCase : 5 : Verify that the product childtab is working properly.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537376572' status='passed' stop='1699537389001'>
+            <name>TestCase : 6 : Verify that the product list table view is scrollable and 'back to top' button is working properly.</name>
+            <title>TestCase : 6 : Verify that the product list table view is scrollable and 'back to top' button is working properly.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537389042' status='passed' stop='1699537397491'>
+            <name>TestCase : 7 : Verify that the product search functionality - Search using the product name and the drop-down.</name>
+            <title>TestCase : 7 : Verify that the product search functionality - Search using the product name and the drop-down.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537397537' status='passed' stop='1699537406103'>
+            <name>TestCase : 8 : Verify that the page navigation buttons are working properly.</name>
+            <title>TestCase : 8 : Verify that the page navigation buttons are working properly.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537406161' status='passed' stop='1699537413342'>
+            <name>TestCase : 9 : Verify the pagination for the total number of product items.</name>
+            <title>TestCase : 9 : Verify the pagination for the total number of product items.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537413386' status='passed' stop='1699537422817'>
+            <name>TestCase : 10 : Verify that the Product table grid lenth visibility and functionality.</name>
+            <title>TestCase : 10 : Verify that the Product table grid lenth visibility and functionality.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537422870' status='passed' stop='1699537430898'>
+            <name>TestCase : 11 : Verify the length of the table columns and print the column names in the table header.</name>
+            <title>TestCase : 11 : Verify the length of the table columns and print the column names in the table header.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537430967' status='passed' stop='1699537447048'>
+            <name>TestCase : 12 : Verify that the Categories functionality allows for adding a category description in an iFrame and uploading images.</name>
+            <title>TestCase : 12 : Verify that the Categories functionality allows for adding a category description in an iFrame and uploading images.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699537447082' status='passed' stop='1699537454604'>
+            <name> TestCase : 13 : Verify the logout functionality.</name>
+            <title> TestCase : 13 : Verify the logout functionality.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
